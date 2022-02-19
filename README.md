@@ -8,3 +8,5 @@
 | [Prestshop](https://github.com/PrestaShop/PrestaShop) | PrestaShop is an Open Source e-commerce platform, committed to providing the best shopping cart experience for both merchants and customers. |
 | [Sylius](https://github.com/Sylius/Sylius) | Open Source eCommerce Platform on Symfony. |
 | [Grav](https://github.com/getgrav/grav) | Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony. |
+| [Ilios](https://github.com/ilios/ilios) | Curriculum Management System for the Health Professions |
+| [Api Platform](https://github.com/api-platform/api-platform) | Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. |
