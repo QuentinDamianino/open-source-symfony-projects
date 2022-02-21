@@ -10,3 +10,4 @@
 | [Grav](https://github.com/getgrav/grav) | Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony. |
 | [Ilios](https://github.com/ilios/ilios) | Curriculum Management System for the Health Professions |
 | [Api Platform](https://github.com/api-platform/api-platform) | Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. |
+| [Kimai v2](https://github.com/kevinpapst/kimai2) | Kimai v2 is a web-based multiuser time-tracking application. Free for everyone: freelancers, agencies, companies, organizations - all can track their times, generate invoices and more. |
