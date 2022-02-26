@@ -12,3 +12,4 @@
 | [Api Platform](https://github.com/api-platform/api-platform) | Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. |
 | [Kimai v2](https://github.com/kevinpapst/kimai2) | Kimai v2 is a web-based multiuser time-tracking application. Free for everyone: freelancers, agencies, companies, organizations - all can track their times, generate invoices and more. |
 | [Sulu](https://github.com/sulu/sulu) | Core framework that implements the functionality of the Sulu content management system |
+| [Chess Api](https://github.com/chesslablab/chess-api) | A chess REST API |
